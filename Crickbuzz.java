@@ -9,7 +9,7 @@ public class Crickbuzz extends Umpire {
     }
     
     public void update(){
-        System.out.println("TV score is "+cr.get_Score());
+        System.out.println("Crickbuzz score is "+cr.get_Score());
     }
     
 }
